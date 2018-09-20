@@ -1,5 +1,3 @@
-require 'pry'
-
 class Transfer
   # your code here
 attr_reader :sender, :status, :amount
